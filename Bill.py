@@ -442,9 +442,7 @@ class Bill_App:
         
         
         
-    def find_bill(self):
-        for i in os.listdir("Bill_Print/"):
-            print(i)
+    
         
         
         
